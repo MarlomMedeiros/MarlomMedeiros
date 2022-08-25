@@ -6,7 +6,7 @@
 
 <h3> Linguagens Mais Usadas 👇</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarlomMedeiros&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarlomMedeiros&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3> Alguns Projetos  👇</h3>
 
