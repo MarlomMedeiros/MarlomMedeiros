@@ -12,13 +12,13 @@
 
 <h4>CRUD dinâmico 😁</h4>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/MarlomMedeiros/CRUD">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarlomMedeiros&repo=CRUD&show_icons=true&theme=radical" />
 </a>
 
 <h4>Site de Loja Online Completo 😎</h4>
 
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/MarlomMedeiros/Store">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarlomMedeiros&repo=store&show_icons=true&theme=radical" />
 </a>
 
