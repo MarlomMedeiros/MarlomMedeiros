@@ -21,5 +21,9 @@
 <a href="https://github.com/MarlomMedeiros/Store">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarlomMedeiros&repo=store&show_icons=true&theme=radical" />
 </a>
-
+</a>
 <h4>Ambos foram feitos utilizando <a href="https://tallstack.dev/"> TALL Stack </a> 💖😎</h4>
+<br>
+<a>
+  <img align="center" src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
+
