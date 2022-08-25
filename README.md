@@ -1,5 +1,8 @@
 <h1> Olá, me chamo Marlom.</h1>
 
+<img class="width=auto" src="https://laravel.com/img/logotype.min.svg"/>
+
+
 <h3> Meu Progresso 👇</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarlomMedeiros&show_icons=true&theme=radical)
