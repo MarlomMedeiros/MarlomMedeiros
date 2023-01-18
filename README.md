@@ -30,13 +30,6 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarlomMedeiros&repo=store&show_icons=true&theme=radical" />
     </a>
   </p>
-  <h4 align="center">Ambos foram feitos utilizando <a href="https://tallstack.dev/"> TALL Stack </a> 💖😎</h4>
-<p align="center">
-  <a href="https://tallstack.dev/">
-    <img align="center" width="400" height="150" src="https://tallstack.dev/images/tallstack-logo.png"/>
-  </a>
-</p>
-<a>
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
 </p>
