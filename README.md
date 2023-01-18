@@ -4,7 +4,7 @@
 </p>
   <h3 align="center"> Meu Progresso 👇</h3>
   <p align="center">
-    <img align="center" src=["https://github-readme-stats.vercel.app/api?username=MarlomMedeiros&show_icons=true&theme=radical&count_private=true](https://github-readme-stats.vercel.app/api/top-langs/?username=MarlomMedeiros&show_icons=true&theme=radical)" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarlomMedeiros&show_icons=true&theme=radical&count_private=true" />
   </p>
   <h1> </h1> 
   <p align="center">
