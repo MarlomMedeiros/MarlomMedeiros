@@ -1,4 +1,6 @@
 <h1> Olá, me chamo Marlom.</h1>
+<h4> <p>Sou um apaixonado por tecnologia e programação, com ampla experiência em linguagens como PHP, CSS, HTML e JavaScript. Possuo conhecimento avançado nos padrões MVC, práticas de codificação eficientes e uso do Git. Além disso, tenho profundo conhecimento nos frameworks Laravel e Full Stack Tall. Meus projetos incluem um painel de usuário intuitivo, um CRUD desenvolvido no Laravel e uma loja online inspirada na renomada Kabum. Bem-vindo ao meu perfil no GitHub, onde você pode ver todas as minhas contribuições e projetos.</p> </h4>
+<br>
 <p align="center">
   <img class="width=auto" src="https://laravel.com/img/logotype.min.svg"/>
 </p>
