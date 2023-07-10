@@ -9,10 +9,6 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarlomMedeiros&show_icons=true&theme=radical&count_private=true" />
   </p>
   <h1> </h1> 
-  <p align="center">
-  <img src="https://miro.medium.com/max/1250/1*r7p5PgVAemqPWU3anJwJJA.gif" />
-  </p>
-  <h1> </h1>
   <h3 align="center"> Linguagens Mais Usadas 👇</h3>
   <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlomMedeiros&show_icons=true&theme=radical" />
@@ -32,6 +28,3 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarlomMedeiros&repo=store&show_icons=true&theme=radical" />
     </a>
   </p>
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
-</p>
